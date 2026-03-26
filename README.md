@@ -3,7 +3,7 @@ Overview
 
 This project focuses on designing and implementing a Local Area Network (LAN) for an educational institute with multiple user groups, including students, teachers, administrative staff, and management. The objective was to create an efficient, reliable, and scalable network infrastructure within a single-floor building.
 
-Objectives:
+__Objectives:__
 
 Design a network that supports 25+ users
 
