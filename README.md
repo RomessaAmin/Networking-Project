@@ -5,8 +5,11 @@ This project focuses on designing and implementing a Local Area Network (LAN) fo
 
 Objectives
 Design a network that supports 25+ users
+
 Ensure efficient communication and resource sharing
+
 Optimize performance, cost, and scalability
+
 Implement and test network connectivity
 
 Users & Resources
